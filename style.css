@@ -1,0 +1,12 @@
+img{
+    float: left;
+    height: 200px;
+    margin: 10px;
+}
+p{
+    overflow: auto;height: 200px;
+            overflow: auto;
+            border: double darkgreen;
+            clear: both;
+    
+}
